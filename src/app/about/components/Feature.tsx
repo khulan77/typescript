@@ -21,7 +21,7 @@ export const Feature = () => {
             </div>
            <button className='w-[145px] h-[40px] bg-white rounded-md flex flex-row justify-center items-center text-sm font-medium gap-1'>
              <Play width={16} height={16}/>
-             Watch Trailer
+             Watch Trailer 
            </button>
         </div>
         </div>
